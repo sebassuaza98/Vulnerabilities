@@ -7,7 +7,7 @@ Mysql 8.0
 **Clone the repositorio**
 
 https://github.com/sebassuaza98/Vulnerabilities.git
-* Cree un archivo enla raiz del proyecto que se va a llamar: script.sh, el contenido del archivo esta djunto en el correo.
+* Al clonar Cree un archivo en la raiz del proyecto que se va a llamar: script.sh, el contenido del archivo esta djunto en el correo.
 
 **Prerequisites**
 El proyecto ha sido dockerizado, por lo que para ejecutarlo se nesecita tener instalado docker.
